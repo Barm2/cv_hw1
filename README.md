@@ -48,7 +48,7 @@ The **`video.py`** script is used for predicting bounding boxes on a video.
 #### Instructions:
 1. download **`weights.pt`** from this repository
 2. Open the **`video.py`** file.
-3. Modify the paths for the YOLOv8 weights and the input video directly in the code, , in the **main** function.
+3. Modify the paths for the YOLOv8 weights and the input video directly in the code, in the **main** function.
    ```sh
    weights_path = "path/to/your/weights"
    video_path = "path/to/you/video"
