@@ -1,0 +1,6 @@
+opencv-python
+numpy
+torch
+torchvision
+ultralytics==8.2.62
+matplotlib
